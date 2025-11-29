@@ -1,6 +1,6 @@
-<!-- ====== PREMIUM PROFILE BANNER ====== -->
+<!-- ====== PREMIUM PROFILE BANNER (FIXED) ====== -->
 <p align="center">
-  <img src="https://i.ibb.co/6YPYt3c/ai-ml-banner-premium.png" alt="Banner" width="900"/>
+  <img src="https://raw.githubusercontent.com/itsyaashna/assets/main/ai-ml-banner-premium.png" alt="AI ML Banner" width="900"/>
 </p>
 
 <!-- ====== ANIMATED TITLE ====== -->
@@ -53,16 +53,14 @@ Connect: **https://www.linkedin.com/in/nithinkaml**
 
 ## 📂 Featured Projects
 
-> Put GIF files in `assets/` folder at repo root (names below are placeholders).
+> Put GIF files in `assets/` folder at repo root.
 
 ### 🔹 Electric Console (Python CLI)
 <p align="center">
   <img src="assets/electric_console.gif" alt="Electric Console demo" width="650"/>
   <br/>
-  <a href="#"><img src="https://img.shields.io/badge/Live_Demo-Open%20Demo-00F0FF?style=for-the-badge&logo=googlechrome" alt="live demo"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Live_Demo-Open%20Demo-00F0FF?style=for-the-badge&logo=googlechrome"/></a>
 </p>
-
-**Highlights:** Modular CLI, data utilities, quick demos.
 
 ---
 
@@ -70,10 +68,8 @@ Connect: **https://www.linkedin.com/in/nithinkaml**
 <p align="center">
   <img src="assets/restaurant_recommendation.gif" alt="Restaurant reco demo" width="650"/>
   <br/>
-  <a href="#"><img src="https://img.shields.io/badge/Live_Demo-Notebook-00F0FF?style=for-the-badge&logo=jupyter" alt="live demo"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Live_Demo-Notebook-00F0FF?style=for-the-badge&logo=jupyter"/></a>
 </p>
-
-**Highlights:** Hybrid recommender (collaborative + content).
 
 ---
 
@@ -81,10 +77,8 @@ Connect: **https://www.linkedin.com/in/nithinkaml**
 <p align="center">
   <img src="assets/location_analysis.gif" alt="Location analysis demo" width="650"/>
   <br/>
-  <a href="#"><img src="https://img.shields.io/badge/Live_Demo-Map%20Demo-00F0FF?style=for-the-badge&logo=googlemaps" alt="live demo"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Live_Demo-Map%20Demo-00F0FF?style=for-the-badge&logo=googlemaps"/></a>
 </p>
-
-**Highlights:** Geo clustering, heatmaps, POI analysis.
 
 ---
 
@@ -92,10 +86,8 @@ Connect: **https://www.linkedin.com/in/nithinkaml**
 <p align="center">
   <img src="assets/predict_ratings.gif" alt="Predict ratings demo" width="650"/>
   <br/>
-  <a href="#"><img src="https://img.shields.io/badge/Live_Demo-API%20Demo-00F0FF?style=for-the-badge&logo=fastapi" alt="live demo"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Live_Demo-API%20Demo-00F0FF?style=for-the-badge&logo=fastapi"/></a>
 </p>
-
-**Highlights:** Text + metadata regression, evaluation RMSE/MAE.
 
 ---
 
@@ -103,10 +95,8 @@ Connect: **https://www.linkedin.com/in/nithinkaml**
 <p align="center">
   <img src="assets/cuisine_classification.gif" alt="Cuisine classification demo" width="650"/>
   <br/>
-  <a href="#"><img src="https://img.shields.io/badge/Live_Demo-Model%20Demo-00F0FF?style=for-the-badge&logo=pytorch" alt="live demo"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Live_Demo-Model%20Demo-00F0FF?style=for-the-badge&logo=pytorch"/></a>
 </p>
-
-**Highlights:** Multiclass text/image classifier, confusion matrix.
 
 ---
 
