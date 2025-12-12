@@ -1,7 +1,4 @@
 <!-- ====== PREMIUM PROFILE BANNER (FIXED) ====== -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/itsyaashna/assets/main/ai-ml-banner-premium.png" alt="AI ML Banner" width="900"/>
-</p>
 
 <!-- ====== ANIMATED TITLE ====== -->
 <p align="center">
